@@ -1,2 +1,5 @@
-# com.dsobko.feign
-Feign library usage example
+#*Feign library usage example*
+
+Simple test on Kotlin
+
+https://github.com/OpenFeign/feign
